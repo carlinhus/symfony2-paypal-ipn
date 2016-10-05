@@ -613,6 +613,14 @@ class Ipn
     {
         return $this->order;
     }
+
+    /**
+     * @return mixed
+     */
+    public function getTransactionID()
+    {
+        return $this->transactionID;
+    }
     
     /**
      * Get orderItems
