@@ -1,14 +1,18 @@
 {
-    "name": "orderly/paypal-ipn-bundle",
+    "name": "leafnode/paypal-ipn-bundle",
     "type": "symfony-bundle",
     "description": "A Symfony2 bundle for retrieving and logging PayPal Instant Payment Notifications (PayPal IPNs)",
     "keywords": ["payment", "paypal", "ipn"],
-    "homepage": "https://github.com/orderly/symfony2-paypal-ipn",
+    "homepage": "https://github.com/leafnode/symfony2-paypal-ipn",
     "license": "Apache2",
     "authors": [
         {
             "name": "Alexander Dean",
             "email": "alex@keplarllp.com"
+        },
+        {
+            "name": "Leszek Krupiński",
+            "email": "leafnode@gmail.com"
         }
     ],
     "require": {
